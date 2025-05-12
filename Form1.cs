@@ -72,7 +72,7 @@ namespace InteractiveSwitch
                 g.DrawArc(switchPen, 12.5f + switchLocation, 12.5f, 25, 25, 0, 360); // OFF SWITCH
                 //g.DrawArc(switchPen, 62.5f, 12.5f, 25, 25, 0, 360); // ON SWITCH
             }
-
+            
             pic_ButtonCanvas.Image = switchImage;
             pic_ButtonCanvas.SizeMode = PictureBoxSizeMode.Normal;
         }

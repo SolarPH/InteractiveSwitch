@@ -1,0 +1,1 @@
+"C:\Program Files\WinRAR\WinRAR.exe" a -afzip -ep1 ".\AutoBuild\InteractiveSwitch.zip" ".\bin\Release\net8.0-windows\*.*"

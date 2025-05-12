@@ -1,0 +1,17 @@
+D:\Programming Projects\InteractiveSwitch\bin\Release\net8.0-windows\InteractiveSwitch.exe
+D:\Programming Projects\InteractiveSwitch\bin\Release\net8.0-windows\InteractiveSwitch.deps.json
+D:\Programming Projects\InteractiveSwitch\bin\Release\net8.0-windows\InteractiveSwitch.runtimeconfig.json
+D:\Programming Projects\InteractiveSwitch\bin\Release\net8.0-windows\InteractiveSwitch.dll
+D:\Programming Projects\InteractiveSwitch\bin\Release\net8.0-windows\InteractiveSwitch.pdb
+D:\Programming Projects\InteractiveSwitch\obj\Release\net8.0-windows\InteractiveSwitch.Form1.resources
+D:\Programming Projects\InteractiveSwitch\obj\Release\net8.0-windows\InteractiveSwitch.csproj.GenerateResource.cache
+D:\Programming Projects\InteractiveSwitch\obj\Release\net8.0-windows\InteractiveSwitch.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming Projects\InteractiveSwitch\obj\Release\net8.0-windows\InteractiveSwitch.AssemblyInfoInputs.cache
+D:\Programming Projects\InteractiveSwitch\obj\Release\net8.0-windows\InteractiveSwitch.AssemblyInfo.cs
+D:\Programming Projects\InteractiveSwitch\obj\Release\net8.0-windows\InteractiveSwitch.csproj.CoreCompileInputs.cache
+D:\Programming Projects\InteractiveSwitch\obj\Release\net8.0-windows\InteractiveSwitch.sourcelink.json
+D:\Programming Projects\InteractiveSwitch\obj\Release\net8.0-windows\InteractiveSwitch.dll
+D:\Programming Projects\InteractiveSwitch\obj\Release\net8.0-windows\refint\InteractiveSwitch.dll
+D:\Programming Projects\InteractiveSwitch\obj\Release\net8.0-windows\InteractiveSwitch.pdb
+D:\Programming Projects\InteractiveSwitch\obj\Release\net8.0-windows\InteractiveSwitch.genruntimeconfig.cache
+D:\Programming Projects\InteractiveSwitch\obj\Release\net8.0-windows\ref\InteractiveSwitch.dll
